@@ -1,0 +1,21 @@
+.oddElement {
+    color: black;
+    background-color: rgba(253, 136, 136, 0.766);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.secondElement {
+    color: rgba(0, 0, 255, 0.611);
+    font-size: 36px;
+}
+
+.thirdElement {
+    font-size: 24px;
+}
+
+.fouthElement {
+    background-color: rgb(138, 226, 138);
+    font-size: 24px;
+    font-weight: bold;
+}
+
